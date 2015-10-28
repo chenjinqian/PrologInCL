@@ -1,0 +1,4 @@
+;;This is an embeded prolog interpreter implementation, with commom-lisp(sbcl). This is a practise work after reading the book <on lisp> by Pau Graham. 
+;;Author: ChenJinQian
+;;Email: 2012chenjinqian@gmail.com
+
